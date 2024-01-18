@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<string.h>
+void main()
+{
+    int day,month,year,reference=7;
+    char days[10][12]={,"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"};
+    int months[10][12]={31,}
+    printf("Enter the Date :");
+    scanf("%d%d%d",&day,&month,&year);
+    
+}
